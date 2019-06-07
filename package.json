@@ -1,0 +1,10 @@
+{
+  "name": "webgltf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "elm": "^0.19.0-no-deps",
+    "elm-live": "^3.4.0"
+  }
+}
